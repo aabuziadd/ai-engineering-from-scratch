@@ -1,0 +1,12 @@
+*.bin
+*.safetensors
+*.pt
+*.onnx
+data/*.csv
+data/*.json
+models/
+
+*.json
+*.csv
+*.parquet
+
